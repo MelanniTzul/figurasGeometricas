@@ -1,0 +1,30 @@
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.exe
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.deps.json
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.runtimeconfig.json
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.dll
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.pdb
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.AssemblyInfo.cs
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.dll
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\refint\figurasGeometricas.dll
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.pdb
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.genruntimeconfig.cache
+C:\Users\Melanni Tzul\Desktop\Curso .NET\.Net c#\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\ref\figurasGeometricas.dll
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.exe
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.deps.json
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.runtimeconfig.json
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.dll
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.pdb
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.AssemblyInfo.cs
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.dll
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\refint\figurasGeometricas.dll
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.pdb
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.genruntimeconfig.cache
+C:\Users\yefri\Downloads\Telegram Desktop\Otro\figurasGeometricas\figurasGeometricas\obj\Debug\net6.0\ref\figurasGeometricas.dll
